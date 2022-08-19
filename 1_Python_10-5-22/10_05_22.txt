@@ -1,0 +1,66 @@
+CONDITIONAL STATEMENTS & LOOPS CONTROL STATEMENTS:-
+
+(go to, continue) jump statement
+
+1.if
+2.if else
+3.nested if
+4.elif
+
+2) if exp:      
+	s1
+	s2
+	s3
+   else:
+	s4
+	s5
+	s6
+
+3)if exp1:
+	if exp2:
+		s1
+		s2
+	else:
+		s4
+		s5
+  else:
+
+4)if exp1:
+	s1
+	s2
+	s3
+  elif exp1:
+	s4
+	s5
+  elif exp2:
+	s6
+  else:
+	s0	
+
+nested if program:-
+a=10
+b=20
+c=30
+if a>b:
+    if a>c:
+        print(a)
+    else:
+        print(c)
+else:
+    if b>c:
+        print(b)
+    else:
+        print(c)
+
+        
+30
+
+
+Loops:-
+1.initialisation
+2.condition
+3.increment/decrement
+
+for loop:
+
+

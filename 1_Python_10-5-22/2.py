@@ -1,0 +1,5 @@
+s1=input("Enter str1: ")
+s2=input("Enter str2: ")
+s3=input("Enter str3: ")
+print("{}**{}**{}".format(s1,s2,s3))
+print("Data{}Science{}Python".format("**","**"))
